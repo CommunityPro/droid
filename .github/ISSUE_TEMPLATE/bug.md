@@ -1,5 +1,5 @@
 ---
-name: bug
+name: Bug
 about: Issues or bugs found while using this project
 title: "[BUG]"
 labels: bug
